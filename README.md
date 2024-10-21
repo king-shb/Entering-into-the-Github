@@ -1,3 +1,3 @@
 # Entering-into-the-Github
 This is my first Git repository 
-I ADD A NEXT LINE 
+Added a next line
